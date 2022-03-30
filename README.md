@@ -1,8 +1,5 @@
 # Macrina Website
 
-Macrina LLC's static website. No JavaScript.
+Macrina LLC's [static website](https://macrina.tech).
 
-## Acknowledgements
-
-- Written in Swift with John Sundell's [Publish](https://github.com/JohnSundell/Publish) site generator.
-- CSS by John Otander's [Air](https://github.com/markdowncss/air) micro CSS framework.
+CSS orignally forked from John Otander's [Air](https://github.com/markdowncss/air) micro CSS framework.
